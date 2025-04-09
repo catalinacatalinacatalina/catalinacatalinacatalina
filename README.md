@@ -1,8 +1,8 @@
-# 👾 Bienvenida a mi universo digital
+# 👾 Bienvenido a mi lienzo digital
 
-Hola, soy **Catalina**, aunque por aquí puedes encontrarme como **cr1ptoc4t** 🐱‍💻. Estudio Ingeniería de Computadores en la Universidad Complutense de Madrid, y este espacio es una especie de archivo vivo de mi aprendizaje, mis rayadas creativas y mis avances técnicos.
+Hola, soy **Catalina**, aunque por aquí puedes encontrarme como **cr1ptoc4t** 🐱‍💻. Estudio Ingeniería de Computadores en la Universidad Complutense de Madrid, y este espacio es una especie de álbum sobre mi aprendizaje, mis rayadas creativas y mis avances técnicos.
 
-Me gusta la informática cuando se mezcla con ideas, arte, lógica y algo de caos. Aquí verás desde proyectos de la uni hasta experimentos que hago por gusto (o por obsesión momentánea).
+Me gusta la informática cuando se mezcla con ideas, caos, lógica y sobre todo, con arte. Aquí verás desde proyectos de la uni hasta experimentos que hago por gusto (o por obsesión momentánea).
 
 ---
 
