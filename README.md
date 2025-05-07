@@ -22,4 +22,4 @@ Una implementación del mítico juego *Lemmings*, la práctica final de Tecnolog
 
 ---
 
-Gracias por pasarte. Aquí no hay inteligencia artificial (de momento), solo una humana intentando aprender cosas complejas con curiosidad (y café).
+Gracias por pasarte:)
