@@ -6,9 +6,9 @@ Hi, I'm **Catalina**. I am a Computer Engineering student at the **Universidad C
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinacatalinacatalina&layout=compact&theme=tokyonight&hide_border=true" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=catalinacatalinacatalina&show_icons=true&theme=tokyonight&hide_border=true" height="100"/>
-  <img src="https://streak-stats.demolab.com/?user=catalinacatalinacatalina&theme=tokyonight&hide_border=true" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinacatalinacatalina&layout=compact&theme=tokyonight&hide_border=true" height="110"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=catalinacatalinacatalina&show_icons=true&theme=tokyonight&hide_border=true" height="110"/>
+  <img src="https://streak-stats.demolab.com/?user=catalinacatalinacatalina&theme=tokyonight&hide_border=true" height="110"/>
 </p>
 
 <p align="center">
