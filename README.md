@@ -11,17 +11,16 @@ Hi, I'm **Catalina**. I am a Computer Engineering student at the **Universidad C
   <img src="https://streak-stats.demolab.com/?user=catalinacatalinacatalina&theme=tokyonight&hide_border=true" height="110"/>
 </p>
 
+---
+
 <p align="center">
-  My current stack
-</p>
-  <p align="center">
   <img src="https://img.shields.io/badge/Processing-006699?logo=processingfoundation&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2FC++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-7f7fff?logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white" />
 </p>
 
 <p align="center">
